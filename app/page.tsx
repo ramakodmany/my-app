@@ -54,7 +54,11 @@ function IntelligentHire() {
             </a>
           </nav>
 
+<<<<<<< HEAD
+          <Link href="/user/login" className={styles.btn}>
+=======
           <Link href="/login" className={styles.btn}>
+>>>>>>> 726875a80d759f0b8489280f2876e8e005556189
             Login
           </Link>
 
@@ -82,7 +86,11 @@ function IntelligentHire() {
                 <span>It's code interviewing code.</span>
               </h3>
               <p>Hiring humans the machine way faster, smarter, unbiased.</p>
+<<<<<<< HEAD
+              <Link href="/user/jobposting" className={styles.btn}>
+=======
               <Link href="/jobposting" className={styles.btn}>
+>>>>>>> 726875a80d759f0b8489280f2876e8e005556189
                 View Jobs Posting <FaArrowRight aria-hidden="true" />
               </Link>
             </div>
@@ -117,7 +125,11 @@ function IntelligentHire() {
                 best engineering talent to contribute to our ambitious vision.
               </p>
 
+<<<<<<< HEAD
+              <Link href="/user/login" className={styles.btn}>
+=======
               <Link href="/login" className={styles.btn}>
+>>>>>>> 726875a80d759f0b8489280f2876e8e005556189
                 Upload your CV <FaArrowUp aria-hidden="true" />
               </Link>
             </div>
